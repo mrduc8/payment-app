@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 900px;
+}
+
+h3, h4 {
+    margin-bottom: 15px;
+}
+
+.package {
+    margin-bottom: 10px;
+}
+
+.package.active {
+    background-color: #007bff !important;
+    color: white !important;
+}
